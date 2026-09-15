@@ -4,12 +4,11 @@
 
 <a href="https://www.linkedin.com/in/tikita-tolley/"><img src="https://tikitatech.xyz/icons/social/linkedin.svg?v=5" width="30" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/@tikitatech"><img src="https://tikitatech.xyz/icons/social/youtube.svg?v=5" width="30" alt="YouTube"></a> &nbsp;&nbsp;&nbsp; <a href="https://www.tiktok.com/@tikitatech"><img src="https://tikitatech.xyz/icons/social/tiktok.svg?v=5" width="30" alt="TikTok"></a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/tikitatech/"><img src="https://tikitatech.xyz/icons/social/instagram.svg?v=5" width="30" alt="Instagram"></a> &nbsp;&nbsp;&nbsp; <a href="https://substack.com/@curiousdescent"><img src="https://tikitatech.xyz/icons/social/substack.svg?v=5" width="30" alt="Substack"></a>
 
-`Technical Co-Founder, Full Stack Dev, Hardware Maker`
+`Technical Co-Founder, Full Stack Dev`
 
 Co-founder at Daeda Technologies where I build HubSpot apps.
 
-I'm 23 and dropped physics at uni to build full-time. I work across software and physical
-computing, from full-stack products and AI tooling to ESP32 electronics and 3D-printed enclosures.
+I'm 23, dropped physics at uni to build full-time. In software, now learning hardware.
 
 [![tikitatech.xyz](https://tikitatech.xyz/icons/badges/website.svg?v=3)](https://tikitatech.xyz?utm_source=tikita_github_profile)
 
@@ -28,17 +27,12 @@ computing, from full-stack products and AI tooling to ESP32 electronics and 3D-p
 <img src="https://cdn.simpleicons.org/python/FF7997" width="32" alt="Python">
 <img src="https://cdn.simpleicons.org/claude/FF7997" width="32" alt="Claude">
 <img src="https://cdn.simpleicons.org/modelcontextprotocol/FF7997" width="32" alt="MCP">
-<img src="https://cdn.simpleicons.org/cplusplus/FF7997" width="32" alt="C++">
-<img src="https://cdn.simpleicons.org/arduino/FF7997" width="32" alt="Arduino">
 
 <br>
 
 <p align="center">─────&nbsp;⋆⋅✿⋅⋆&nbsp;─────</p>
 
 ### Hardware
-
-Four finished hardware projects exhibited at Liverpool MakeFest 2026, covering circuit design,
-soldering, ESP32 firmware, CAD, 3D printing and connected web interfaces.
 
 </div>
 
@@ -68,13 +62,13 @@ soldering, ESP32 firmware, CAD, 3D printing and connected web interfaces.
 <td><strong>Fabric Colour Sensor</strong></td>
 <td>ESP32-S3 scanner that compares two fabric colours on an OLED</td>
 <td align="center"><a href="https://github.com/TikitaTolley/color-sensor"><img src="https://tikitatech.xyz/icons/links/github.svg?v=1" width="28" alt="GitHub" title="GitHub"></a></td>
-<td align="center">MakeFest build</td>
+<td align="center"><a href="https://www.youtube.com/shorts/mE4jw6d4Lig"><img src="https://tikitatech.xyz/icons/links/youtube.svg?v=1" width="28" alt="Watch the four MakeFest hardware builds" title="Watch the four MakeFest hardware builds"></a></td>
 </tr>
 <tr>
 <td><strong>Analysis Terminal</strong></td>
 <td>ESP32 colour terminal for exploring Think to Ink team scores and standings</td>
 <td align="center"><a href="https://github.com/TikitaTolley/analysis-terminal"><img src="https://tikitatech.xyz/icons/links/github.svg?v=1" width="28" alt="GitHub" title="GitHub"></a></td>
-<td align="center"><a href="https://analysis-terminal.daeda-technologies.workers.dev/"><img src="https://tikitatech.xyz/icons/links/daeda.svg?v=2" width="28" alt="Open the Analysis Terminal companion page" title="Open the Analysis Terminal companion page"></a></td>
+<td align="center"><a href="https://analysis-terminal.daeda-technologies.workers.dev/"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Open the Analysis Terminal companion page" title="Open the Analysis Terminal companion page"></a></td>
 </tr>
 </table>
 
